@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Games and Web Development 
 - 🌱 I’m currently learning HTML,CSS,Javascript,TypeScript,TailwindCSS,SQL
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me  
+- 📫 LinkedIn @ Trevor Sims
 - ⚡ Fun fact: I'm a self taught dev
 
 <!---
